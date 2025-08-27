@@ -5,7 +5,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabellyAds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    </a>
    <a href="https://github.com/IsabellyAds">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellyAds&layout=compact&langs_count=6&theme=radical&cache_seconds=1000"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellyAds&layout=compact&langs_count=6&theme=radical&cache_seconds=10"/>
    </a>
 </div>
     
@@ -27,6 +27,4 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/isabelly-santana-b23130330" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?st
